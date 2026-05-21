@@ -1,4 +1,3 @@
-<img width="2172" height="724" alt="ChatGPT Image 21 may 2026, 17_44_12" src="https://github.com/user-attachments/assets/241bad0b-b00e-4908-852e-5aa548e3b6e2" />
 # 👋 Hi, I'm Adrián Gabas
 
 ## Backend Developer focused on Automation & System Integration
@@ -39,3 +38,4 @@ Reusable Spring Boot backend template with JPA, validation and OpenAPI documenta
 ## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/adrian-gabas-andreu
+<img width="2172" height="724" alt="Image 21 may 2026, 17_44_12" src="https://github.com/user-attachments/assets/241bad0b-b00e-4908-852e-5aa548e3b6e2" />
