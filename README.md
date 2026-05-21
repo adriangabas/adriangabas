@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Adrián Gabas
 
-<!--
-**adriangabas/adriangabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend Developer focused on Automation & System Integration
 
-Here are some ideas to get you started:
+I am a junior backend developer focused on backend systems, ecommerce and automation workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working with Java, MariaDB, REST APIs, Docker and n8n integrations to build real-world backend projects.
+
+---
+
+## 🔧 Tech Stack
+
+- Java
+- SQL / MariaDB
+- REST APIs
+- Docker
+- Apache Tomcat
+- Maven
+- Git
+- n8n
+- Automation & System Integration
+
+---
+
+## 🚀 Featured Projects
+
+### Ecommerce Backend
+Java ecommerce application with DAO architecture, MariaDB integration and stock automation via n8n webhooks.
+
+### Logistics Automation
+Automation workflows for logistics processes including PDF generation, stock alerts and backend integrations.
+
+### Spring Boot Backend Template
+Reusable Spring Boot backend template with JPA, validation and OpenAPI documentation.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/adrian-gabas-andreu
