@@ -40,3 +40,6 @@ Reusable Spring Boot backend template with JPA, validation and OpenAPI documenta
 ## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/adrian-gabas-andreu
+  
+- Portfolio profesional con proyectos backend en Java, automatización con n8n e integración de sistemas.
+🌐 https://adriangabas.github.io/portfolio/
